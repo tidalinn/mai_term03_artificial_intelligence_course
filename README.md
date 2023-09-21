@@ -20,6 +20,7 @@ Contains folders and files with laboratory works.
 
 ### Folders
 
+* `3d_models` - stores 3D-models
 * `utils` - stores files with default funcs
 
 
