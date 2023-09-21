@@ -25,4 +25,4 @@ Contains folders and files with laboratory works.
 
 
 ### Files
-* `01_laboratory_work` - stores laboratory work on "Theme"
+* `01_laboratory_work` - stores laboratory work on "3D-model Transfiguration"
