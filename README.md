@@ -23,9 +23,11 @@ Contains folders and files with laboratory works.
 * `3d_models` - stores 3D-models
 * `data` - stores data to work with
 * `seminars` - stores notebooks with seminar lessons and homeworks
+* `gifs` - stores GIF files 
+* `03_laboratory_work` - stores files for laboratory work on "Differential Rendering"
 
 
 ### Files
-* `01_laboratory_work` - stores laboratory work on "3D-model Transfiguration"
-* `02_laboratory_work` - stores laboratory work on "PyTorch3D"
-* `03_laboratory_work` - stores laboratory work on "Differential Rendering"
+* `01_laboratory_work.ipynb` - stores laboratory work on "3D-model Transfiguration"
+* `02_laboratory_work.ipynb` - stores laboratory work on "PyTorch3D"
+* `03_laboratory_work.ipynb` - stores laboratory work on "Differential Rendering"
