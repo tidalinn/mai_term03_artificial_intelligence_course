@@ -24,7 +24,6 @@ Contains folders and files with laboratory works.
 * `data` - stores data to work with
 * `seminars` - stores notebooks with seminar lessons and homeworks
 * `gifs` - stores GIF files 
-* `03_laboratory_work` - stores files for laboratory work on "Differential Rendering"
 
 
 ### Files
